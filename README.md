@@ -10,7 +10,8 @@ dashboard.
 formato CSV ou PDF.
 * Documentação: Utiliza Swagger para fornecer uma documentação interativa
 de endpoints.
-Detalhes Técnicos:
+
+## Detalhes Técnicos:
 * Base URL: https://api.infinity-tech.com/v1 (URL ilustrativa, pode ser alterada)
 * Formato de Dados: JSON para requisições e respostas.
 * Autenticação: A definir (API Key ou OAuth 2.0?)
