@@ -14,7 +14,6 @@ de endpoints.
 ## Detalhes Técnicos:
 * Base URL: https://api.infinity-tech.com/v1 (URL ilustrativa, pode ser alterada)
 * Formato de Dados: JSON para requisições e respostas.
-* Autenticação: A definir (API Key ou OAuth 2.0?)
 * Códigos de status:
 200 Ok: Requisição atendida com sucesso.
 201 Created: Recurso criado com sucesso
